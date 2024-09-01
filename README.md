@@ -1,2 +1,5 @@
 <h2>A Special Thanks to:</h2>
-<a href='https://github.com/itdoginfo/'>@itdoginfo</a>
+<li>
+GitHub - <a href='https://github.com/itdoginfo/'>itdoginfo</a>
+<li>
+Telegram - <a href='https://t.me/itdoginfo/'>@itdoginfo</a>
