@@ -72,6 +72,7 @@ nftset=/colta.ru/4#inet#fw4#vpn_domains
 nftset=/cpu-monkey.com/4#inet#fw4#vpn_domains
 nftset=/currenttime.tv/4#inet#fw4#vpn_domains
 nftset=/czx.to/4#inet#fw4#vpn_domains
+nftset=/discord.com/4#inet#fw4#vpn_domains
 nftset=/deezer.com/4#inet#fw4#vpn_domains
 nftset=/delfi.ee/4#inet#fw4#vpn_domains
 nftset=/delfi.lt/4#inet#fw4#vpn_domains
