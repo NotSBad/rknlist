@@ -4,4 +4,4 @@ GitHub - <a href='https://github.com/itdoginfo/'>itdoginfo</a>
 <li>
 Telegram - <a href='https://t.me/itdoginfo/'>@itdoginfo</a>
 <li>
-<pre><code>bash <(curl -Ls https://raw.githubusercontent.com/IndeecFOX/zapret4rocket/refs/heads/master/fast_install.sh)</code></pre>
+<pre><code>https://raw.githubusercontent.com/NotSBad/rknlist/main/rknlist.lst</code></pre>
