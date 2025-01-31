@@ -1,6 +1,7 @@
 nftset=/.ua/4#inet#fw4#vpn_domains
 nftset=/10minutemail.com/4#inet#fw4#vpn_domains
 nftset=/1337x.to/4#inet#fw4#vpn_domains
+nftset=/4711.se/4#inet#fw4#vpn_domains
 nftset=/24.kg/4#inet#fw4#vpn_domains
 nftset=/4freerussia.org/4#inet#fw4#vpn_domains
 nftset=/4pda.ru/4#inet#fw4#vpn_domains
@@ -417,6 +418,7 @@ nftset=/qt.io/4#inet#fw4#vpn_domains
 nftset=/qualcomm.com/4#inet#fw4#vpn_domains
 nftset=/quietpc.com/4#inet#fw4#vpn_domains
 nftset=/quora.com/4#inet#fw4#vpn_domains
+nftset=/readthefinemanual.net/4#inet#fw4#vpn_domains
 nftset=/radarr.video/4#inet#fw4#vpn_domains
 nftset=/radiosakharov.org/4#inet#fw4#vpn_domains
 nftset=/radiosvoboda.org/4#inet#fw4#vpn_domains
