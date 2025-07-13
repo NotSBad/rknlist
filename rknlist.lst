@@ -58,6 +58,7 @@ nftset=/certifytheweb.com/4#inet#fw4#vpn_domains
 nftset=/chatgpt.com/4#inet#fw4#vpn_domains
 nftset=/cherta.media/4#inet#fw4#vpn_domains
 nftset=/chess.com/4#inet#fw4#vpn_domains
+nftset=/chunkserve.com/4#inet#fw4#vpn_domains
 nftset=/cisco.com/4#inet#fw4#vpn_domains
 nftset=/citrix.com/4#inet#fw4#vpn_domains
 nftset=/clamav.net/4#inet#fw4#vpn_domains
