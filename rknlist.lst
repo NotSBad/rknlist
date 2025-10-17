@@ -604,3 +604,7 @@ nftset=/znanija.com/4#inet#fw4#vpn_domains
 nftset=/zohomail.com/4#inet#fw4#vpn_domains
 nftset=/zona.media/4#inet#fw4#vpn_domains
 nftset=/zelenka.guru/4#inet#fw4#vpn_domains
+# IP-адреса и подсети  
+ip=149.154.164.0/22/4#inet#fw4#vpn_domains
+ip=149.154.166.0/23/4#inet#fw4#vpn_domains
+ip=91.105.192.0/23/4#inet#fw4#vpn_domains
