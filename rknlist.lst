@@ -256,6 +256,7 @@ nftset=/lostfilmtv2.site/4#inet#fw4#vpn_domains
 nftset=/lostfilmtv5.site/4#inet#fw4#vpn_domains
 nftset=/lzt.market/4#inet#fw4#vpn_domains
 nftset=/m3u.in/4#inet#fw4#vpn_domains
+nftset=/my-infra.ru/4#inet#fw4#vpn_domains
 nftset=/macpaw.com/4#inet#fw4#vpn_domains
 nftset=/macvendors.com/4#inet#fw4#vpn_domains
 nftset=/mailo.com/4#inet#fw4#vpn_domains
