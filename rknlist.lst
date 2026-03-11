@@ -282,6 +282,7 @@ nftset=/metacritic.com/4#inet#fw4#vpn_domains
 nftset=/metla.press/4#inet#fw4#vpn_domains
 nftset=/mexc.com/4#inet#fw4#vpn_domains
 nftset=/mocortech.com/4#inet#fw4#vpn_domains
+nftset=/static.mocortech.com/4#inet#fw4#vpn_domains
 nftset=/moloco.com/4#inet#fw4#vpn_domains
 nftset=/static.mocortech.com/4#inet#fw4#vpn_domains
 nftset=/microchip.com/4#inet#fw4#vpn_domains
