@@ -57,3 +57,5 @@ nftset=/chat.openai.com.cdn.cloudflare.net/4#inet#fw4#vpn_domains
 nftset=/production-openaicom-storage.azureedge.net/4#inet#fw4#vpn_domains
 nftset=/x.ai/4#inet#fw4#vpn_domains
 nftset=/grok.com/4#inet#fw4#vpn_domains
+nftset=/proton.me/4#inet#fw4#vpn_domains
+nftset=/mail-api.proton.me/4#inet#fw4#vpn_domains
