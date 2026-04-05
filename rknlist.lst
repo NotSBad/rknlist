@@ -94,3 +94,4 @@ nftset=/discordactivities.com/4#inet#fw4#vpn_domains
 nftset=/discordsays.com/4#inet#fw4#vpn_domains
 nftset=/discord-attachments-uploads-prd.storage.googleapis.com/4#inet#fw4#vpn_domains
 nftset=/walletbot.me/4#inet#fw4#vpn_domains
+nftset=/api.dedust.io/4#inet#fw4#vpn_domains
