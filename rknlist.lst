@@ -72,3 +72,4 @@ nftset=/rutrk.org/4#inet#fw4#vpn_domains
 nftset=/.ua/4#inet#fw4#vpn_domains
 nftset=/cdninstagram.com/4#inet#fw4#vpn_domains
 nftset=/instagram.com/4#inet#fw4#vpn_domains
+nftset=/jac.red/4#inet#fw4#vpn_domains
