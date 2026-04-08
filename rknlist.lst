@@ -99,3 +99,4 @@ nftset=/tomo.inc/4#inet#fw4#vpn_domains
 nftset=/mainnet.api.dedust.io/4#inet#fw4#vpn_domains
 nftset=/dedust.io/4#inet#fw4#vpn_domains
 nftset=/cryptomus.com/4#inet#fw4#vpn_domains
+nftset=/openwrt.org/4#inet#fw4#vpn_domains
