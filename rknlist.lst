@@ -120,3 +120,4 @@ nftset=/openwrt.org/4#inet#fw4#vpn_domains
 nftset=/dnscrypt.info/4#inet#fw4#vpn_domains
 nftset=/rifty.org/4#inet#fw4#vpn_domains
 nftset=/cloudflare.com/4#inet#fw4#vpn_domains
+nftset=/mintlify.app/4#inet#fw4#vpn_domains
